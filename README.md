@@ -12,7 +12,7 @@ Jonathan Smith (Client) created a Next.js portfolio website to showcase his work
 - **Fast Loading:** Delivers quick response times worldwide
 
 ### Solution Architecture
-![Image](https://github.com/user-attachments/assets/d0539069-6c8e-405f-bafe-a5f4a4d4ea70)
+![Image](https://github.com/user-attachments/assets/04a121e0-e2c0-4ac3-aab4-e399090c9824)
 
 - **Frontend:**
     - Next.js portfolio website
@@ -88,6 +88,7 @@ For more information, see: https://nextjs.org/docs
     npm run build
     ```
    This will generate an `out` folder.
+
 ![Image](https://github.com/user-attachments/assets/ba3aeb49-e929-4a62-898c-77b61336253f)
 
 #### 1.4 Push Code to GitHub
